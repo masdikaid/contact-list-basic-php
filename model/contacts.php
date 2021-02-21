@@ -1,3 +1,8 @@
 <?php
 
-$CONTACT_LIST = [];
+$CONTACT_LIST = [
+    [
+        "name" => "masdika ID",
+        "number" => "085771002550"
+    ]
+];
