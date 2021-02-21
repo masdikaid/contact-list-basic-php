@@ -1,0 +1,3 @@
+<?php
+
+$CONTACT_LIST = [];
